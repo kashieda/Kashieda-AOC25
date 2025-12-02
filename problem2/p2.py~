@@ -1,0 +1,6 @@
+with open("p2_txt.txt") as f:
+    inp = [line.rstrip() for line in f]
+
+ranges = inp.split(",")
+
+print(ranges)
