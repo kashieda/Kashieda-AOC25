@@ -31,7 +31,7 @@ for r in ranges:
                     #print(f"{cs=} = {rep=} * {s1}")
                 
                     if ns == cs:
-                        print(f"Träff: {ns}, {cs}")
+                        #print(f"Träff: {ns}, {cs}")
                         summa += n
                         unfound = False
 
